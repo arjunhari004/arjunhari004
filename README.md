@@ -1,88 +1,110 @@
 
-# 👋 Hi, I'm Arjun Hari
+<h1 align="center">Hi 👋, I'm Arjun Hari</h1>
 
-### 💻 Junior Python Full Stack Developer | Software Engineer
+<h3 align="center">Junior Python Full Stack Developer | Software Engineer from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Python+Developer;Junior+Full+Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Always+Learning+Something+New!" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arjunhari004&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arjunhari004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/arjunhari004?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/arjunhari004?affiliations=OWNER&style=social" alt="GitHub Stars"/>
+</div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science and Engineering graduate.
-- 💻 Interested in Python Development and Full Stack Web Development.
+<img align="right" alt="Coding" width="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+
+- 🎓 Computer Science and Engineering Graduate.
+- 💻 Interested in Python and Full Stack Development.
 - 🐍 Hands-on experience with Python and Django.
-- 🤖 Interested in Artificial Intelligence, Machine Learning and Computer Vision.
-- 🔍 Worked with YOLO for object detection and real-time monitoring projects.
-- 🌱 Currently improving my programming and software development skills.
-- 🎯 Aspiring to become a skilled Software Developer.
+- ⚡ Familiar with FastAPI and REST APIs.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 👁️ Worked with YOLO and Computer Vision.
+- 🌱 Continuously learning and improving my development skills.
+- 🎯 Aspiring Software Developer.
 
-- 📫 Email: **hariarjun658@gmail.com**
-- 🌐 GitHub: [arjunhari004](https://github.com/arjunhari004)
-- 💼 LinkedIn: [Arjun Hari](https://www.linkedin.com/in/arjunhari19)
+📫 **Email:** hariarjun658@gmail.com
+
+🌐 **Portfolio:** Coming Soon
+
+💼 **LinkedIn:** [Arjun Hari](https://www.linkedin.com/in/arjunhari19)
+
+🐙 **GitHub:** [arjunhari004](https://github.com/arjunhari004)
 
 ---
 
-## 🚀 My Projects
+## 🚀 Projects
 
-### 1. AI-Powered Intelligent Surveillance and Post-Disaster Management System
+### 🔹 1. AI-Powered Intelligent Surveillance and Post-Disaster Management System
 
-- Developed a Python-based system for monitoring natural and human-made hazards.
-- Integrated computer vision and machine learning techniques for automated object detection.
-- Implemented incident identification, monitoring and alert mechanisms.
-- Focused on supporting risk assessment and emergency response.
+An AI-powered monitoring system designed to identify and analyze natural and human-made hazards.
+
+- Developed a Python-based monitoring system.
+- Integrated computer vision and machine learning techniques.
+- Implemented automated object detection and incident identification.
+- Designed alert mechanisms to support risk assessment and emergency response.
 
 **Technologies:** Python | YOLO | Machine Learning | Computer Vision
 
-### 2. CrowdNova – Innovation and Brilliance in Crowd Management
+### 🔹 2. CrowdNova – Innovation and Brilliance in Crowd Management
 
-- Developed a Python-based real-time crowd monitoring system.
-- Used YOLO object detection to identify and analyze crowd density.
-- Processed video data for public safety monitoring.
-- Generated automated crowd insights for managing public spaces.
+An intelligent crowd monitoring system focused on public safety and crowd density analysis.
 
-**Technologies:** Python | YOLO | Computer Vision | AI/ML
+- Developed a real-time crowd monitoring application.
+- Used YOLO object detection for crowd identification.
+- Processed video data to analyze crowd density.
+- Generated crowd insights to support public safety monitoring.
+
+**Technologies:** Python | YOLO | AI/ML | Computer Vision
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Tools
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java" />
+</p>
 
-### Web Development
+### Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-### Database & Tools
+### Backend Development
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi" />
+</p>
+
+### Database & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
+</p>
 
 ### AI & Computer Vision
 
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/YOLO-Object%20Detection-111F68?style=for-the-badge&logo=ultralytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-AI-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-AI-green?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🎓 Education
 
-**B.Tech – Computer Science and Engineering**
+**B.Tech in Computer Science and Engineering**
 
 Mahaguru Institute of Technology, Kayamkulam
 
@@ -93,54 +115,77 @@ Mahaguru Institute of Technology, Kayamkulam
 
 ## 🏆 Certifications & Leadership
 
-- The Complete SQL Bootcamp: Go From Zero to Hero – Udemy
-- IIC Startup Lead (2025–2026)
-- IEDC Executive Committee Member (2024–2025)
-- Class Representative
+- 📜 The Complete SQL Bootcamp: Go From Zero to Hero – Udemy
+- 🚀 IIC Startup Lead (2025–2026)
+- 💡 IEDC Executive Committee Member (2024–2025)
+- 👨‍🎓 Class Representative
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arjunhari004&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunhari004&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunhari004&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arjunhari004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunhari004&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<div align="center">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunhari004&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=arjunhari004&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 👾 Pac-Man Contribution Graph
+
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=arjunhari004&theme=tokyo-night&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunhari004/arjunhari004/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjunhari004/arjunhari004/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/arjunhari004/arjunhari004/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/arjunhari19">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hariarjun658@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/arjunhari004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="center">
+<a href="https://www.linkedin.com/in/arjunhari19">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hariarjun658@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/arjunhari004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-<p align="center">
-  ⭐ <b>Keep Learning, Keep Building, Keep Growing!</b> 🚀
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Every expert was once a beginner."</i>
-</p>
+### 💬 Always open to learning, collaboration and new opportunities!
+
+**⭐ Keep Learning | Keep Building | Keep Growing 🚀**
+
+*"Every expert was once a beginner."*
+
+</div>
